@@ -6,7 +6,7 @@ Planes must take off into the wind and land with the wind.
 ## Example output:
 ########### Display ##########
 
-`Runway 9-27:
+Runway 9-27:
 
 Landed: 8
 Plane #0 landed on runway 9-27 in the direction from east to west.
@@ -38,4 +38,4 @@ Plane #3 took off on runway 18-36 in the direction from south to north.
 Plane #11 took off on runway 18-36 in the direction from north to south.
 Plane #20 took off on runway 18-36 in the direction from north to south.
 
-Total Time: 0.006624 seconds.`
+Total Time: 0.006624 seconds.
